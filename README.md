@@ -3,4 +3,4 @@ Hi, I'm Qiwei Mao, a geotechnical engineer with a passion for IoT systems. I'm e
 
 **Hardware I'm exploring**: ESP32, Arduino UNO, Raspberry Pi, LoRa Transceivers.
 
-Visit my blog at [blog.qiweimao.dev](https://blog.qiweimao.dev/) to read about my ongoing projects.
+Visit my blog at [www.qiweimao.dev](https://www.qiweimao.dev/) to read about my ongoing projects.
