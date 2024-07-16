@@ -3,6 +3,6 @@ Hi, I'm Qiwei Mao, a geotechnical engineer based in Atlanta GA, with a passion f
 
 **Hardware I'm exploring**: ESP32, Arduino UNO, Raspberry Pi, LoRa Transceivers.
 
-[![Watch the video](https://img.youtube.com/vi/CaR1bvXQmzk/maxresdefault.jpg)](https://www.youtube.com/watch?v=CaR1bvXQmzk)
+Watch my latest YouTube video: [ESP32 Datalogger React UI Demo](https://www.youtube.com/watch?v=CaR1bvXQmzk)
 
 Visit my blog at [www.qiweimao.dev](https://www.qiweimao.dev/) to read about my ongoing projects.
