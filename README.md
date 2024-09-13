@@ -1,4 +1,4 @@
-# Let's bring sensors to the clound ☁️
+# Let's bring sensors to the cloud ☁️
 Hi, I'm Qiwei Mao, a geotechnical engineer based in Atlanta GA, with a passion for IoT systems. I'm exploring low-power microcontrollers and LoRa communication systems to enable both hobbyist remote monitoring solutions and industrial-grade monitoring or control systems.
 
 **Hardware I'm exploring**: ESP32, Arduino UNO, Raspberry Pi, LoRa Transceivers.
