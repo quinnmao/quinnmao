@@ -5,4 +5,5 @@ Hi, I'm Qiwei Mao, a geotechnical engineer based in Atlanta GA, with a passion f
 
 **Tech Stack**: NLP | Linux | AWS | React | RTOS
 
-Watch my latest YouTube video: [ESP32 Datalogger React UI Demo](https://www.youtube.com/watch?v=CaR1bvXQmzk). Visit my blog at [www.qiweimao.dev](https://www.qiweimao.dev/) to read about my ongoing projects.
+Watch my latest YouTube video: [ESP32 Datalogger React UI Demo](https://www.youtube.com/watch?v=CaR1bvXQmzk).
+Visit my blog at [www.qiweimao.dev](https://www.qiweimao.dev/) to read about my ongoing projects.
